@@ -12,7 +12,14 @@
 
 ㅤ
 
-![](https://media.tenor.com/yOwKX_hMp6cAAAAd/hackerman-rami-malek.gif)
+<div>
+
+  <img align="center" alt="gif" height="350" width="439" src="https://media.tenor.com/yOwKX_hMp6cAAAAd/hackerman-rami-malek.gif">
+
+</div>
+
+ㅤ
+
 <div> 
 
   <a href="https://instagram.com/bruno.may_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
