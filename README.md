@@ -14,7 +14,7 @@
 
 <div>
 
-  <img align="center" alt="gif" height="350" width="439" src="https://media.tenor.com/yOwKX_hMp6cAAAAd/hackerman-rami-malek.gif">
+  <img align="center" alt="gif" height="300" width="439" src="https://media.tenor.com/yOwKX_hMp6cAAAAd/hackerman-rami-malek.gif">
 
 </div>
 
